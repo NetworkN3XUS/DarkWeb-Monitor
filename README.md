@@ -25,5 +25,4 @@ Want to contribute? Here’s how:
 This project is open-source but meant for ethical use only. Unauthorized misuse is strictly prohibited.  
 
 ---
-
 🚀 **Stay tuned! More features coming soon!**  
