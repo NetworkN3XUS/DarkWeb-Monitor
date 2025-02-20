@@ -1,0 +1,23 @@
+ GNU nano 8.2                                     Main/main.py                                               
+<<<<<<< HEAD
+import requests
+
+sessio<<<<<<< HEAD
+import requests
+
+session = requests.Session()
+session.proxies = {
+    'http':  'socks5h://127.0.0.1:9050',
+    'https': 'socks5h://127.0.0.1:9050'
+}
+
+response = session.get('http://check.torproject.org')
+print(response.text)
+=======
+#code for flask framework
+import re
+from flask import Flask
+
+app = Flask(__name__)
+app.secret_key = " "
+>>>>>>> a031bdcc1d18a9a533cbbd2cc0f6f35b1373ccac
